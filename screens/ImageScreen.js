@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 
 import ScreenBase from "./ScreenBase";
 import {Image, StyleSheet} from "react-native";

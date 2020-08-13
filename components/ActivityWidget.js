@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 
 import {StyleSheet, TouchableWithoutFeedback, View} from 'react-native';
 import ContentBox from "./ContentBox";

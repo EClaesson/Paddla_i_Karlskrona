@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 import {StyleSheet, Text} from "react-native";
 
 export class ScreenHeaderText extends Component {

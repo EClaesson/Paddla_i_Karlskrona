@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 
 import ScreenBase from "./ScreenBase";
 import {StyleSheet, View} from "react-native";
@@ -7,7 +7,7 @@ import {WeatherWidget} from "../components/WeatherWidget";
 import ContentRow from "../components/ContentRow";
 import ContentBox from "../components/ContentBox";
 import WidgetText from "../components/WidgetText";
-import {faWind, faTemperatureHigh, faCloudSun, faSun} from "@fortawesome/free-solid-svg-icons";
+import {faCloudSun, faSun, faTemperatureHigh, faWind} from "@fortawesome/free-solid-svg-icons";
 import {FontAwesomeIcon} from "@fortawesome/react-native-fontawesome";
 import {observer} from "mobx-react";
 import {withStoreContext} from "../contexts/StoreContext";

@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 
 import {Linking, StyleSheet, TouchableWithoutFeedback, View} from 'react-native';
 import ContentRow from "./ContentRow";

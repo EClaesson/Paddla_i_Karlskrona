@@ -1,7 +1,6 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 
 import ScreenBase from "./ScreenBase";
-import {StyleSheet} from "react-native";
 import {ScreenHeaderText} from "../components/ScreenHeaderText";
 import {BanWidget} from "../components/BanWidget";
 import {withStoreContext} from "../contexts/StoreContext";

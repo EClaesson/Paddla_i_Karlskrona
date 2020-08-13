@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 
 import ScreenBase from "./ScreenBase";
 import {ScreenHeaderText} from "../components/ScreenHeaderText";

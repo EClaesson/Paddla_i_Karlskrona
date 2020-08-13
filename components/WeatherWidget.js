@@ -1,9 +1,9 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 
 import {StyleSheet, TouchableWithoutFeedback, View} from 'react-native';
 import ContentBox from "./ContentBox";
 import {FontAwesomeIcon} from "@fortawesome/react-native-fontawesome";
-import {faWind, faTint, faCloudSun} from "@fortawesome/free-solid-svg-icons";
+import {faCloudSun, faTint, faWind} from "@fortawesome/free-solid-svg-icons";
 import ContentRow from "./ContentRow";
 import WidgetText from "./WidgetText";
 import {useNavigation} from "@react-navigation/native";

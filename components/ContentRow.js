@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 
 import {StyleSheet, View} from 'react-native';
 import {observer} from "mobx-react";

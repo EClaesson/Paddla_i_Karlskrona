@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 
 import WeatherWidget from "../components/WeatherWidget";
 import BanWidget from "../components/BanWidget";
 import ActivityWidget from "../components/ActivityWidget";
 import ScreenBase from "./ScreenBase";
-import { useNavigation } from '@react-navigation/native';
+import {useNavigation} from '@react-navigation/native';
 
 export class HomeScreen extends Component {
     render() {
